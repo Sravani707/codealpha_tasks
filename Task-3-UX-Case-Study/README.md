@@ -1,7 +1,8 @@
 # Task 3 – UX Case Study
 
-This folder contains the UX case study completed for the CodeAlpha UI/UX Internship.
+This folder contains the UX case study report completed for the CodeAlpha UI/UX Internship.
 
-**Application Studied:** Wallet by BudgetBakers
+**Project:** Wallet by BudgetBakers
 
-**Contents:** UX Case Study Report
+**Contents**
+- UX Case Study Report (PDF)
